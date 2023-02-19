@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\bin\Debug\net7.0\Sem2Task11.exe
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\bin\Debug\net7.0\Sem2Task11.deps.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\bin\Debug\net7.0\Sem2Task11.runtimeconfig.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\bin\Debug\net7.0\Sem2Task11.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\bin\Debug\net7.0\Sem2Task11.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\refint\Sem2Task11.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\Sem2Task11.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem2Task11\obj\Debug\net7.0\ref\Sem2Task11.dll
