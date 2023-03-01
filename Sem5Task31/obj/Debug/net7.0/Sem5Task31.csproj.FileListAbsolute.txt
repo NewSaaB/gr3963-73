@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\bin\Debug\net7.0\Sem5Task31.exe
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\bin\Debug\net7.0\Sem5Task31.deps.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\bin\Debug\net7.0\Sem5Task31.runtimeconfig.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\bin\Debug\net7.0\Sem5Task31.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\bin\Debug\net7.0\Sem5Task31.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\refint\Sem5Task31.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\Sem5Task31.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task31\obj\Debug\net7.0\ref\Sem5Task31.dll

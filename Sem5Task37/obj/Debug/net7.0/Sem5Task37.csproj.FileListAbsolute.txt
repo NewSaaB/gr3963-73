@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\bin\Debug\net7.0\Sem5Task37.exe
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\bin\Debug\net7.0\Sem5Task37.deps.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\bin\Debug\net7.0\Sem5Task37.runtimeconfig.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\bin\Debug\net7.0\Sem5Task37.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\bin\Debug\net7.0\Sem5Task37.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\refint\Sem5Task37.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\Sem5Task37.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem5Task37\obj\Debug\net7.0\ref\Sem5Task37.dll

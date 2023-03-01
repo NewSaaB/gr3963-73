@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\bin\Debug\net7.0\sem5Task34.exe
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\bin\Debug\net7.0\sem5Task34.deps.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\bin\Debug\net7.0\sem5Task34.runtimeconfig.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\bin\Debug\net7.0\sem5Task34.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\bin\Debug\net7.0\sem5Task34.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\refint\sem5Task34.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\sem5Task34.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\sem5Task34\obj\Debug\net7.0\ref\sem5Task34.dll
