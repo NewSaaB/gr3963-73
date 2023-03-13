@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\bin\Debug\net7.0\Sem8Task53.exe
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\bin\Debug\net7.0\Sem8Task53.deps.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\bin\Debug\net7.0\Sem8Task53.runtimeconfig.json
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\bin\Debug\net7.0\Sem8Task53.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\bin\Debug\net7.0\Sem8Task53.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\refint\Sem8Task53.dll
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.pdb
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\Sem8Task53.genruntimeconfig.cache
+C:\Users\HP\Desktop\Tech\GB\Lesson C#\HomeWork\HW1\gr3963-73\Sem8Task53\obj\Debug\net7.0\ref\Sem8Task53.dll
